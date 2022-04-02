@@ -4,4 +4,4 @@ Hi! My name is Nathan, and I am an upcoming mechanical engineering graduate from
 <br> <br>
 During my free time, I enjoy playing the piano and reading. 
 <br> <br>
-[Home]()
+[Home](/index)
