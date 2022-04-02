@@ -1,3 +1,7 @@
 ### Projects
-## Instrumented Foot Project (Spring 2022)
-<a href="./Blank.pdf" target="blank">TestPDF</a>
+
+Here is my <a href="./Blank.pdf" target="blank">project portfolio</a>. <br> <br>
+I am still working to upload the contents of the project portfolio onto this site. Stay tuned...
+<br> <br>
+[Home](/index)
+
